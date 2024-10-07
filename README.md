@@ -7,7 +7,7 @@ With my background in medicine, I bring a passion for coding that focuses on imp
 ## 🛠️ Technical Skills
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frameworks & Libraries:** React, Redux, Next.js, Tailwind CSS, Framer Motion, Django, Node.js, Express, Prisma  
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman, Docker, REST APIs  
+- **Tools & Platforms:** Git, GitHub, Postman, REST APIs  
 - **Databases:** PostgreSQL, MySQL  
 - **Testing & Quality Assurance:** Playwright, Unit Testing, Integration Testing
 
