@@ -23,3 +23,13 @@ With my background in medicine, I bring a passion for coding that focuses on imp
 
 - [**Recipe App**](http://latania-recipeapp.netlify.app/): A recipe app using the **Edamam recipe API**, built with **HTML**, **CSS**, **JavaScript**, and **SASS/SCSS** for styling. Features API integration with **axios** for fetching recipe data. [GitHub Repo](https://github.com/LataniaReece/RecipeApp)
 
+ ## 🤝 Connect with Me
+
+- **Portfolio**: [lataniareece.com](https://lataniareece.com)
+- **LinkedIn**: [linkedin.com/in/lataniareece](https://www.linkedin.com/in/lataniareece/)
+- **GitHub**: [github.com/LataniaReece](https://github.com/LataniaReece)
+- **Email**: [latania.reece@outlook.com](mailto:latania.reece@outlook.com)
+
+**Let’s connect and see how we can create impactful solutions together!**
+
+
