@@ -5,7 +5,7 @@ I'm an experienced Software Developer with expertise in React, Redux, JavaScript
 With my background in medicine, I bring a passion for coding that focuses on improving the lives of those around us. I love working on projects that create accessible and impactful user experiences and prioritize usability and user satisfaction. I’m driven by the desire to use technology to solve real-world problems, enhance everyday life, and make complex processes more intuitive.
 
 ## 🛠️ Technical Skills
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Languages:** JavaScript, TypeScript, Python  
 - **Frameworks & Libraries:** React, Redux, Next.js, Tailwind CSS, Framer Motion, Django, Node.js, Express, Prisma  
 - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman, Docker, REST APIs  
 - **Databases:** PostgreSQL, MySQL  
