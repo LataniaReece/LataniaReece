@@ -1,4 +1,4 @@
-# Hi, I'm Latania Reece 👋
+# Hi, I'm Latania Reece 👋🏾
 I'm an experienced Software Developer with expertise in React, Redux, JavaScript, and TypeScript, along with hands-on experience in Python and Django. My goal is to build user-friendly and scalable applications that make a difference.
 
 ## About Me
@@ -23,7 +23,7 @@ With my background in medicine, I bring a passion for coding that focuses on imp
 
 - [**Recipe App**](http://latania-recipeapp.netlify.app/): A recipe app using the **Edamam recipe API**, built with **HTML**, **CSS**, **JavaScript**, and **SASS/SCSS** for styling. Features API integration with **axios** for fetching recipe data. [GitHub Repo](https://github.com/LataniaReece/RecipeApp)
 
- ## 🤝 Connect with Me
+ ## 🤝🏾 Connect with Me
 
 - **Portfolio**: [lataniareece.com](https://lataniareece.com)
 - **LinkedIn**: [linkedin.com/in/lataniareece](https://www.linkedin.com/in/lataniareece/)
