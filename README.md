@@ -13,15 +13,15 @@ With my background in medicine, I bring a passion for coding that focuses on imp
 
 ## 📂 Projects
 
+- [**Recipe App**](https://recipe-nextjs-app.vercel.app/): A dynamic recipe app built with **Next.js**, **TypeScript**, and **Tailwind CSS**, leveraging the **Edamam API** for real-time data. It integrates **Supabase** with **PostgreSQL** for managing users and saving favorites, and uses **NextAuth** with Google for secure authentication. [GitHub Repo](https://github.com/LataniaReece/recipe-haven)
+
 - [**Blog Fullstack App**](https://blog-fullstack-app-ui.vercel.app/): A responsive, full-stack blog app using **Node.js**, **Prisma**, **PostgreSQL**, **React**, **Tailwind CSS**, **Redux Toolkit**, and **Framer Motion**. Manages state and data with **RTK Query**. [GitHub Repo](https://github.com/LataniaReece/blog_fullstack_app)
 
-- [**Notes App**](https://latania-notesapp.netlify.app): A sleek frontend notes application featuring **@tinymce/tinymce-react** for rich text editing and **Tailwind CSS** for a responsive design. Built with **React**, **TypeScript**, and **Redux Toolkit**. [GitHub Repo](https://github.com/LataniaReece/Notes-App)
+- [**Notes App**](https://latania-notesapp.netlify.app): A sleek frontend notes application featuring **ReactQuill** for rich text editing and **Tailwind CSS** for a responsive design. Built with **React**, **TypeScript**, and **Redux Toolkit**. [GitHub Repo](https://github.com/LataniaReece/Notes-App)
 
 - [**MediaDB App**](https://mediadb.netlify.app/): A responsive streaming app using **React** and **TypeScript** with **themoviedb** API for movie and TV data. Uses **Context API** for state management and includes robust unit tests. [GitHub Repo](https://github.com/LataniaReece/MediaDB)
 
 - [**Budget App**](https://latania-budget-app.netlify.app/): A frontend budget app utilizing **react-chartjs-2** for data visualization and **@mui/x-data-grid** for managing data. Built with **React**, **TypeScript**, and **Context API**. [GitHub Repo](https://github.com/LataniaReece/react-mui-budget-app)
-
-- [**Recipe App**](http://latania-recipeapp.netlify.app/): A recipe app using the **Edamam recipe API**, built with **HTML**, **CSS**, **JavaScript**, and **SASS/SCSS** for styling. Features API integration with **axios** for fetching recipe data. [GitHub Repo](https://github.com/LataniaReece/RecipeApp)
 
  ## 🤝🏾 Connect with Me
 
